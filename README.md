@@ -13,9 +13,9 @@ https://github.com/t-vi/AICamera
 
 1.First you have to set some paths to Linux as shown at the picture. Use commands
 
-'cd ~'
+*cd ~
 
-'gedit .profile'
+*gedit .profile
 
 
 ![ubu3](https://user-images.githubusercontent.com/26084498/50677461-ab370700-1002-11e9-9d2e-04672e143e05.png)
@@ -32,7 +32,7 @@ https://github.com/t-vi/AICamera
 
 ## If you cannot build or you dont have a clue about linux use below instructions:
 
-Download libs.zip from url https://drive.google.com/open?id=1-eHu1psGyj4YD0Uz6DGY7IiJfbE5sRWa
+Download libs.zip from [**url**](https://drive.google.com/open?id=1-eHu1psGyj4YD0Uz6DGY7IiJfbE5sRWa)
 
 Unzip libs.zip to get the static libraries
 
@@ -47,7 +47,7 @@ Click the green play button in Android Studio and follow instructions if some cl
 
 ## Info
 Tested and working with NDK17 and 18.
-Inside Assets folder there are already 2 protobufs soloupis_init_net AND soloupis_predict_net where these have been created after training a SqueezeNet to identify 133 dog breeds. You can download the colab notebook to see a working example of how protobufs are created from link https://drive.google.com/open?id=1uVTRHIJTo8ziMoC-ClpmTAiqtVdpLgEF Also to train the Squeezenet from the dogImages you can see a working example here: https://drive.google.com/open?id=1mIWUB5uLWSlddfv8I9u17vJVkF5S5btG [**here**](https://drive.google.com/open?id=1mIWUB5uLWSlddfv8I9u17vJVkF5S5btG)
+Inside Assets folder there are already 2 protobufs soloupis_init_net AND soloupis_predict_net where these have been created after training a SqueezeNet to identify 133 dog breeds. You can download the colab notebook to see a working example of how protobufs are created from [**link**](https://drive.google.com/open?id=1uVTRHIJTo8ziMoC-ClpmTAiqtVdpLgEF)  Also to train the Squeezenet from the dogImages you can see a working example [**here**](https://drive.google.com/open?id=1mIWUB5uLWSlddfv8I9u17vJVkF5S5btG)
 
 
 ## Special links for more info
