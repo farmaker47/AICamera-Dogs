@@ -1,10 +1,10 @@
-## AI Flowers
+## AI Camera Dogs
 
-AI Flowers is a demo app that was created for Udacity Project Showcase as part for the Facebook Pytorch scholarship. You can use the camera of your app to classify flowers and see their names.
+AI Camera Dogs is a demo app that was created for Udacity Project Showcase as part for the Facebook Pytorch scholarship. You can use the camera of your app to classify dogs and see their breed.
 
 ### Download
 
-    git clone https://github.com/farmaker47/AIFlowers
+    git clone https://github.com/farmaker47/AICamera-Dogs
 
 ### Build
 
@@ -13,9 +13,9 @@ https://github.com/t-vi/AICamera
 
 1.First you have to set some paths to Linux as shown at the picture. Use commands
 
-cd ~
+'cd ~'
 
-gedit .profile
+'gedit .profile'
 
 
 ![ubu3](https://user-images.githubusercontent.com/26084498/50677461-ab370700-1002-11e9-9d2e-04672e143e05.png)
@@ -47,18 +47,15 @@ Click the green play button in Android Studio and follow instructions if some cl
 
 ## Info
 Tested and working with NDK17 and 18.
-Inside Assets folder there are already 2 protobufs soloupis_init_net AND soloupis_predict_net where these have been created after training a SqueezeNet to identify 102 flower species. You can download the colab notebook to see a working example of how protobufs are created from link https://drive.google.com/open?id=1uVTRHIJTo8ziMoC-ClpmTAiqtVdpLgEF
+Inside Assets folder there are already 2 protobufs soloupis_init_net AND soloupis_predict_net where these have been created after training a SqueezeNet to identify 133 dog breeds. You can download the colab notebook to see a working example of how protobufs are created from link https://drive.google.com/open?id=1uVTRHIJTo8ziMoC-ClpmTAiqtVdpLgEF Also to train the Squeezenet from the dogImages you can see a working example here: https://drive.google.com/open?id=1mIWUB5uLWSlddfv8I9u17vJVkF5S5btG [**here**](https://drive.google.com/open?id=1mIWUB5uLWSlddfv8I9u17vJVkF5S5btG)
 
-## Small video 
-https://www.youtube.com/watch?v=LOeFcHR9d9s&feature=youtu.be
-
-## Credits
-Soumith Chintala, Thomas V, Ioannis Anifantakis
 
 ## Special links for more info
 https://github.com/t-vi/AICamera
 
 https://github.com/wangnamu/AICamera_new
+
+https://github.com/farmaker47/AIFlowers
 
 ### Tests
 
