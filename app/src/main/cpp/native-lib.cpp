@@ -175,7 +175,7 @@ Java_com_soloupis_aiflowers_MainActivity_predFromCaffe2(
         }
     }
     std::ostringstream stringStream;
-    stringStream << "\tFlower  prediction" << " \n\n";
+    stringStream << "\tDog breed prediction" << " \n\n";
 
     for (auto j = 0; j < k; ++j) {
         stringStream << j << ": " << imagenet_classes[max_index[j]] << " - " << max[j] / 10 << "%\n";
