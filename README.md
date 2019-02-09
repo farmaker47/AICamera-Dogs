@@ -13,9 +13,9 @@ https://github.com/t-vi/AICamera
 
 1.First you have to set some paths to Linux as shown at the picture. Use commands
 
-*cd ~
+cd ~
 
-*gedit .profile
+gedit .profile
 
 
 ![ubu3](https://user-images.githubusercontent.com/26084498/50677461-ab370700-1002-11e9-9d2e-04672e143e05.png)
